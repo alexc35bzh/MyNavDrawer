@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyNavDrawer</string>
+        <!-- Used in NavigationDrawer -->
+        <string name="navigation_drawer_open">Open navigation drawer</string>
+        <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="fil_d_actualit">Fil d\'actualité</string>
+    <string name="configuration">Configuration</string>
+    <string name="profil">Profil</string>
+    <string name="param_tres">Paramètres système</string>
+    <string name="echantillonnage">Echantillonnage</string>
+    <string name="gps">GPS</string>
+
+</resources>
